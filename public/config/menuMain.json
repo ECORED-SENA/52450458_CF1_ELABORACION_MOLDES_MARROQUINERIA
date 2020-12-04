@@ -1,0 +1,214 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","intro"],
+    "path": "pages/intro.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "manufactura",
+    "title": "1. La manufactura del cuero.",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "materiales_e_insumos",
+    "title": "2. Materiales e insumos utilizados en marroquinería.",
+    "breadcrumb": ["Inicio","Tema 2"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "materiales_e_insumos",
+        "title": "2.1 Materiales.",
+        "anchor": "21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "materiales_e_insumos",
+        "title": "2.2 Insumos.",
+        "anchor": "22"
+      }
+    ]
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "materiales",
+    "title": "3. Materiales para la elaboración de moldes.",
+    "breadcrumb": ["Inicio","Tema 3"],
+    "path": "pages/3-tema.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "conceptos_basicos",
+    "title": "4. Conceptos básicos de diseño para marroquinería.",
+    "breadcrumb": ["Inicio","Tema 4"],
+    "path": "pages/4-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "4.1 La investigación para el diseño.",
+        "anchor": "41"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "4.2 Generar las alternativas.",
+        "anchor": "42"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "4.3 Seleccionar las alternativas de diseño.",
+        "anchor": "43"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "4.4 Evaluar las alternativas de acuerdo con los requerimientos de diseño.",
+        "anchor": "44"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "4.5 Evaluar el proceso productivo de acuerdo con el producto a desarrollar.",
+        "anchor": "45"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "4.6 El producto estándar.",
+        "anchor": "46"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "4.7 Desarrollar moldes del producto.",
+        "anchor": "47"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "4.8 Desarrollo del producto o prototipo.",
+        "anchor": "48"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "4.9 Evaluación del producto o prototipo.",
+        "anchor": "49"
+      }
+    ]
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "manejo_e_interpretacion",
+    "title": "5. Manejo e interpretación de la información.",
+    "breadcrumb": ["Inicio","Tema 5"],
+    "path": "pages/5-tema.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "trazado",
+    "title": "6. El trazado de los modelos para diferentes diseños.",
+    "breadcrumb": ["Inicio","Tema 6"],
+    "path": "pages/6-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "trazado",
+        "title": "6.1 Encajar el dibujo.",
+        "anchor": "61"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "trazado",
+        "title": "6.2 Determinar proporciones.",
+        "anchor": "62"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "trazado",
+        "title": "6.3 Realizar el boceto.",
+        "anchor": "63"
+      }
+    ]
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "categorias",
+    "title": "7. Categorías de los productos de marroquinería.",
+    "breadcrumb": ["Inicio","Tema 7"],
+    "path": "pages/7-tema.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "fichas",
+    "title": "8. Fichas técnicas para marroquinería.",
+    "breadcrumb": ["Inicio","Tema 8"],
+    "path": "pages/8-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fichas",
+        "title": "8.1 Ficha técnica de diseño.",
+        "anchor": "81"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fichas",
+        "title": "8.2 Ficha técnica de producción.",
+        "anchor": "82"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fichas",
+        "title": "8.3 Ficha técnica de consumo.",
+        "anchor": "83"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fichas",
+        "title": "8.4 Ficha técnica de desbaste.",
+        "anchor": "84"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fichas",
+        "title": "8.5 Orden de producción.",
+        "anchor": "85"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fichas",
+        "title": "8.6 Ficha técnica de procesos de producto.",
+        "anchor": "86"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fichas",
+        "title": "8.7 Ficha técnica de moldes.",
+        "anchor": "87"
+      }
+    ]
+  }
+]
